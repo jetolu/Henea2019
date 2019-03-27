@@ -301,8 +301,6 @@ var x = setInterval(function() {
 	};
 	
 
-	$('#osaform')[0].reset();
-
 
   /* Intro Animation
 	* ------------------------------------------------------- */
