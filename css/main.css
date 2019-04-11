@@ -2294,7 +2294,7 @@ select,
  textarea {
   width: 100%;
   margin-bottom: 3.6rem;
-  color: darkgray;
+  color: rgba(0, 0, 0, .7);
 }
 #osa input,
  textarea:focus {
@@ -2305,7 +2305,7 @@ select,
  }
 
 ::placeholder {
-  color: darkgray;
+  color: rgba(0, 0, 0, .7);
 } 
 
 
